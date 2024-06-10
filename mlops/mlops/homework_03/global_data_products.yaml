@@ -1,0 +1,19 @@
+home_training_set:
+  object_type: pipeline
+  object_uuid: sklearn
+  outdated_after:
+    seconds: 600
+  project: homework_03
+  repo_path: /home/src/mlops/homework_03
+  settings:
+    build: {}
+hw_training_set:
+  object_type: pipeline
+  object_uuid: sklearn_homework
+  project: homework_03
+  repo_path: /home/src/mlops/homework_03
+my_training_st:
+  object_type: pipeline
+  object_uuid: homework03_data_preparation
+  project: homework_03
+  repo_path: /home/src/mlops/homework_03

@@ -1,0 +1,5 @@
+vj_training_set:
+  object_type: pipeline
+  object_uuid: homework03_data_preparation
+  project: homework3_training
+  repo_path: /home/src/mlops/homework3_training
